@@ -1,0 +1,16 @@
+a.button {
+    display: inline-block;
+    color: #edeed5;
+    padding: 12px;
+    border-radius: 3px;
+    text-decoration: none;
+    font-family: Tahoma;
+    font-size: 30px;
+    line-height: 1;
+    font-weight: 100;
+    margin-bottom: 1%;
+}
+
+a.button-red {
+    background-color: #4682B4 ;
+}

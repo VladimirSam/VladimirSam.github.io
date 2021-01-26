@@ -1,0 +1,44 @@
+
+
+.bipi {
+    width: 120px;
+    height: 100%;
+    background-color: #87CEFA;
+float: right;
+}
+
+.add-menu {
+    width: 120px;
+    height: 50px;
+    background-image: url("../images/button_add.png");
+    background-repeat: round;
+    cursor: pointer;
+
+}
+
+.add-menu.valide {
+    background-image: url("../images/1317bb.png");
+}
+
+.menu-li {
+    display: none;
+    list-style-type: none;
+    padding: 0%;
+    margin: 3%;
+
+}
+
+.menu-li a {
+    text-decoration: none;
+    font-size: 130%;
+
+}
+
+.menu-li a:hover {
+    color: indianred;
+}
+
+.menu-li.valide {
+    display: block;
+}
+
